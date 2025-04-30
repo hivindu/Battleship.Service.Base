@@ -2,5 +2,6 @@
 {
     public class GetSystemShipReponse
     {
+        public required KeyValuePair<int, int>[] Cordinates { get; set; }
     }
 }
