@@ -1,4 +1,4 @@
-﻿\namespace Battleship.Service.Base.Models.RequestResponseModels
+﻿namespace Battleship.Service.Base.Models.RequestResponseModels
 {
     public class GetSystemShipReponse
     {
